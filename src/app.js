@@ -20,8 +20,8 @@ if (term !== ''){
 // you need to get your own api key
 // https://www.air-port-codes.com/
 const api = multi({
-        key:'616f47a22d',
-        secret:'2e3268fea1cf126',
+        key:'Api Key',
+        secret:'add your own password',
         limit: 20
       });
 
